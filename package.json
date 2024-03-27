@@ -1,0 +1,22 @@
+{
+  "name": "3.2",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shoaib",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoaibaliawan/sit725-2024-t1-prac3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shoaibaliawan/sit725-2024-t1-prac3/issues"
+  },
+  "homepage": "https://github.com/shoaibaliawan/sit725-2024-t1-prac3#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
